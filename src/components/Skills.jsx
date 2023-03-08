@@ -20,81 +20,81 @@ const Skills = () => {
             id: 1,
             src: html,
             title: 'HTML',
-            style: 'shadow-orange-500'
+            style: 'shadow-red-600'
         },
         {
             id: 2,
             src: css,
             title: 'CSS',
-            style: 'shadow-orange-500'
+            style: 'shadow-sky-500'
         },
         {
             id: 3,
             src: javascript,
             title: 'Javascript',
-            style: 'shadow-orange-500'
+            style: 'shadow-yellow-500'
         },
         {
             id: 4,
             src: bootstrap,
             title: 'Bootstrap',
-            style: 'shadow-orange-500'
+            style: 'shadow-cyan-700'
         },
         {
             id: 5,
             src: node,
             title: 'Node',
-            style: 'shadow-orange-500'
+            style: 'shadow-emerald-600'
         },
         {
             id: 6,
             src: sequelize,
             title: 'Sequelize',
-            style: 'shadow-orange-500'
+            style: 'shadow-indigo-900'
         },
         {
             id: 7,
             src: mysql,
             title: 'MySQL',
-            style: 'shadow-orange-500'
+            style: 'shadow-violet-600'
         },
         {
             id: 8,
             src: mongodb,
             title: 'MongoDB',
-            style: 'shadow-orange-500'
+            style: 'shadow-green-500'
         },
         {
             id: 9,
             src: react,
             title: 'React',
-            style: 'shadow-orange-500'
+            style: 'shadow-black-500'
         },
         {
             id: 10,
             src: tailwind,
             title: 'Tailwind',
-            style: 'shadow-orange-500'
+            style: 'shadow-slate-900'
         },
         {
             id: 11,
             src: github,
             title: 'Github',
-            style: 'shadow-orange-500'
+            style: 'shadow-gray-500'
         },
         {
             id: 12,
             src: heroku,
             title: 'Heroku',
-            style: 'shadow-orange-500'
+            style: 'shadow-violet-900'
         },
     ]
   return (
-    <div name='skills' className='bg-black w-full text-white md:h-screen'>
+    <div name='skills' className='bg-gradient-to-b from-sky-400 to-blue-700 w-full text-white md:h-screen'>
         <div className='mx-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
 
             <div>
-                <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>Experience</p>
+                <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>Skills</p>
                 <p className='py-6'>Here are the skills that I have used in my projects</p>
             </div>
 

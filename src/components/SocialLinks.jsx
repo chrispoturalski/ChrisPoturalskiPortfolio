@@ -1,6 +1,7 @@
-import React from 'react'
-import { FaGithub, FaLinkedin } from 'react-icons/fa'
-import { HiOutlineMail } from 'react-icons/hi'
+import React from 'react';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { HiOutlineMail } from 'react-icons/hi';
+import { BsFillPersonLinesFill } from 'react-icons/bs';
 
 
 const SocialLinks = () => {
@@ -32,7 +33,17 @@ const SocialLinks = () => {
                 </>
             ),
             href: 'mailto:chrispoturalski0689@gmail.com',
-            style: 'rounded-br-md'
+        },
+        {
+            id: 4,
+            child: (
+                <>
+                    Resume <BsFillPersonLinesFill size={30} />
+                </>
+            ),
+            href: '/resume.pdf',
+            style: 'rounded-tr-md',
+            download: true,
         }
     ]
         
