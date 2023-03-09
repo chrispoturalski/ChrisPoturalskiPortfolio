@@ -9,13 +9,18 @@ const About = () => {
             </div>
 
             <p className='text-xl mt-20'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui laboriosam alias consequuntur? Vero autem, sunt adipisci numquam officia quod ea provident quisquam minima repudiandae, cupiditate, iusto sequi ipsum aperiam rerum?
-            </p>
+            I am a current student at University of California, Irvine studying
+full stack development through a weeknight bootcamp. In the
+duration of my bootcamp experience, I have developed a sense of
+what is required in the fast paced environment that this role would
+be in. I am passionate for the industry and know I can excel and
+adapt to new technologies. I collaborate well with my peers,
+exemplify quick learning capabilities, and have a comprehensive
+set of skills to execute any tasks at hand.            </p>
 
             <br />
 
             <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla nisi, accusamus neque numquam officia odio est quos laudantium earum sequi iste, exercitationem, aspernatur esse assumenda magni perferendis dolorum perspiciatis impedit?
             </p>
         </div>
     </div>

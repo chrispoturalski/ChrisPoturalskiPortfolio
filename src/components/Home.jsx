@@ -12,8 +12,8 @@ const Home = () => {
                     I'm a Full Stack Developer
                 </h2>
                 <p className='text-white py-4 max-w-md'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, possimus explicabo doloremque quos quis porro exercitationem, mollitia ad odio quod labore? Recusandae quaerat voluptatem quae consectetur sapiente dignissimos modi veritatis?
-                </p>
+Welcome to my portfolio website! My name is Chris Poturalski and I am an aspiring Full Stack Developer 
+looking to gain professional work experience. Please check out my portfolio website where you will find my skills, portfolio, and social links!               </p>
             </div>
 
             <div>
