@@ -23,7 +23,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://www.linkedin.com/in/chris-poturalski-5b1b1b1b3/'
+            href: 'https://www.linkedin.com/in/chris-poturalski-2a8997118/'
         },
         {
             id: 3,
