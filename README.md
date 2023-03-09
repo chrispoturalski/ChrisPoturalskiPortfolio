@@ -19,7 +19,7 @@ Technologies that were used in this application were React Icons, React Scroll a
 
 ## Deployment
 
-https://intense-headland-51020.herokuapp.com/
+https://chrispoturalski-portfolio.netlify.app/
 
 ## Questions
 
