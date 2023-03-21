@@ -1,5 +1,5 @@
 import React from 'react'
-import CSVReader from '../assets/portfolio/CSVReader.png'
+import Conquerio from '../assets/portfolio/Conquerio.png'
 import MovieReview from '../assets/portfolio/MovieReview.png'
 import eCommerce from '../assets/portfolio/eCommerce.png'
 import SocialMediaAPI from '../assets/portfolio/SocialMediaAPI.png'
@@ -12,10 +12,10 @@ const Portfolio = () => {
     const portfolio = [
         {
             id: 1,
-            src: CSVReader,
-            title: 'CSV Reader',
-            demo: 'https://chrispoturalski.github.io/CSVReader/',
-            github: 'https://github.com/chrispoturalski/CSVReader'
+            src: Conquerio,
+            title: 'Conquer.io',
+            demo: 'https://conquerio.herokuapp.com',
+            github: 'https://github.com/samermahir/Conquer.io'
         },
         {
             id: 2,
@@ -55,9 +55,9 @@ const Portfolio = () => {
     ]
 
   return (
-    <div name='portfolio' className='bg-gradient-to-b from-blue-700 to-sky-400 w-full text-white md:h-screen'>
+    <div name='portfolio' className='bg-gradient-to-b from-blue-700 to-sky-400 w-full text-white'>
         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
-            <div className='pb-8'>
+            <div className='pb-0'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Portfolio</p>
                 <p className='py-6'>Check out some of my work here</p>
             </div>
